@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy</title>
-    <style>
+
         /* Base styles for body and text */
         body {
             background-color: #23478e; /* Consistent background color */
@@ -14,7 +8,7 @@
             padding: 20px;
         }
 
-        /* Navigation styles */
+        /* Navigation */
         nav {
             text-align: center;
             margin-bottom: 20px;
@@ -25,7 +19,8 @@
             text-decoration: none;
         }
 
-        /* Section header styles */
+        /* Section header */
+
         h2 {
             color: #5dea26; /* Header color */
         }
@@ -42,7 +37,7 @@
             text-align: left; /* Left-align text in sections */
         }
 
-        /* Footer styles */
+        /* Footer */
         footer {
             background-color: rgb(56, 132, 32);
             color: white;
@@ -55,49 +50,4 @@
             color: rgb(66, 89, 200); /* Link color */
             text-decoration: none; /* No underline */
         }
-    </style>
-</head>
-<body>
-    
-    <!-- Navigation Section -->
-    <nav>
-        | <a href="index.html">Home Page</a>
-    </nav>
 
-    <div style="text-align: center;">
-        <h2>Privacy Policy</h2>
-    </div>
-
-    <section class="section">
-        <h2>Introduction</h2>
-        <p>Welcome to Aleksandar's Website. I am committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website <a href="..//index.html" style="color: rgb(66, 89, 200); text-decoration: none;">Index</a> and your choices regarding that information.</p>
-    </section>
-
-    <section class="section">
-        <h2>Information We Collect</h2>
-        <p><strong>Personal Information:</strong> When you register on our website, make a purchase, subscribe to our newsletter, or contact us, we may collect personal information such as your name, email address, phone number, and payment information.</p>
-
-        <p><strong>Usage Data:</strong> We automatically collect information about your activity on our website, including your IP address, browser type, the pages you visit, the time and date of your visits, and the time spent on those pages.</p>
-        
-        <p><strong>Cookies and Tracking Technologies:</strong> We use cookies, web beacons, and similar tracking technologies to enhance your experience on our website. You can control cookie settings through your browser preferences.</p>
-    </section>
-
-    <section class="section">
-        <h2>Your Rights</h2>
-        <p>Depending on your location, you may have certain rights regarding your personal information, including:</p>
-        <ul>
-            <li>The right to access, correct, or delete your personal information.</li>
-            <li>The right to object to or restrict the processing of your personal information.</li>
-            <li>The right to withdraw consent where we rely on your consent to process your personal information.</li>
-        </ul>
-    </section>
-
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2024 Your Website Name. All rights reserved.</p>
-        <a href="privacy.html">Privacy Policy</a> | 
-        <span>Terms of Service</span>
-    </footer>
-
-</body>
-</html>
