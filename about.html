@@ -16,11 +16,29 @@
         </video>
     </div>
 
-    <!-- Navigation Section -->
-    <nav>
-        | <a href="index.html">Home</a> 
+   <!-- Navigation Section -->
+<nav style="display: flex; justify-content: center; padding: 10px;">
+    <a href="index.html" style="
+        display: inline-block;
+        padding: 10px 20px;
+        color: #f8f8f2;
+        background-color: #282a36;
+        border: 1px solid #44475a;
+        border-radius: 4px;
+        font-family: monospace;
+        text-decoration: none;
+        font-size: 16px;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+    " 
+    onmouseover="this.style.backgroundColor='#44475a'; this.style.transform='scale(1.05)';" 
+    onmouseout="this.style.backgroundColor='#282a36'; this.style.transform='scale(1)';"
+    onmousedown="this.style.transform='scale(0.98)';"
+    onmouseup="this.style.transform='scale(1.05)';">
+        &lt; Home &gt;
+    </a>
+</nav>
 
-    </nav>
+
 
     <!-- Main Content-->
     <section>
